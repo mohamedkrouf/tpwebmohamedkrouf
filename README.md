@@ -14,4 +14,5 @@ pwd : test
 
 
 # Db cap : 
-![Uploading CAP5.png…]()
+![CAP5](https://github.com/mohamedkrouf/tpwebmohamedkrouf/assets/170884504/cae4e315-0633-4b24-bcce-bb6377b3c42f)
+
